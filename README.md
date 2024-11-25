@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Microservices
 This repository contains the latest source code of the spring-boot-microservices tutorial
 
@@ -110,3 +111,7 @@ To access the Grafana dashboards, you need to port-forward the grafana service t
 ```shell
 kubectl port-forward svc/grafana 3000:3000
 ```
+=======
+# Full-Stack-with-microservices
+This project is full stack spring boot 3 microservices project 
+>>>>>>> 5af2f96ecabc300aea01c6e7553c278f8f11ee09
